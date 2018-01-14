@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "337327667303",
+    "firebase_url": "https://sig-rut-fni.firebaseio.com",
+    "project_id": "sig-rut-fni",
+    "storage_bucket": "sig-rut-fni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337327667303:android:56d14a6c66071e7e",
+        "android_client_info": {
+          "package_name": "com.matt2393.sigrutfni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337327667303-c5iujs73lb68g36ngs8fsof71hh1iu9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWuVA9xnczwNTkKBAaYBe7_ePNrMAolhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
